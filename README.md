@@ -1,10 +1,11 @@
 # AutoEIT Test II – Automated Scoring of Elicited Imitation Task
+Shreya Khanna
+Submission for HumanAI's AutoEIT project for Google Summer of Code 26 
 
 ## Overview
 
-This project implements a reproducible automated scoring pipeline for the Spanish Elicited Imitation Task (EIT). The system compares learner transcriptions to target stimulus sentences and applies the Ortega (2000) meaning-based scoring rubric to assign sentence-level scores (0–4). The script processes participant data from Excel files and outputs scored results in a new Excel file while preserving the original dataset structure.
+This project implements a reproducible automated scoring pipeline (RAG-style)for the Spanish Elicited Imitation Task (EIT). The system compares learner transcriptions to target stimulus sentences and applies the Ortega (2000) meaning-based scoring rubric to assign sentence-level scores (0–4). The script processes participant data from Excel files and outputs scored results in a new Excel file while preserving the original dataset structure.
 
-This work was completed as part of the AutoEIT GSoC Test II: Evaluation of Transcribed Data.
 
 ## Approach
 
